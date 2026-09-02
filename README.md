@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -39,4 +40,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0072-edit-distance) |
 <!---LeetCode Topics End-->
