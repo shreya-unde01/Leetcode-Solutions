@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0322-coin-change) |
@@ -54,4 +55,12 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
