@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0198-house-robber](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0322-coin-change) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0392-is-subsequence](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 ## Binary Search
@@ -65,6 +67,7 @@
 | ------- |
 | [0046-permutations](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -77,4 +80,12 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
