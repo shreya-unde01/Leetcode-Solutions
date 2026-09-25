@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0198-house-robber](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0198-house-robber) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0079-word-search) |
 ## Bit Manipulation
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0079-word-search) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
