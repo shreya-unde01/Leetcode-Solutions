@@ -12,6 +12,7 @@
 | [0198-house-robber](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -22,6 +23,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Breadth-First Search
@@ -32,6 +34,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -70,6 +73,7 @@
 | [0051-n-queens](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -94,4 +98,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0051-n-queens) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/shreya-unde01/Leetcode-Solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
